@@ -1,0 +1,51 @@
+
+.feature-card{
+    background-color: pink;
+    padding: 20px;
+    width: 270px;
+    height: 270px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 5px hotpink;
+    border: thick;
+    border-style: double;
+    border-color: black;
+}
+
+
+.deck{
+    gap: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+}
+
+h1{
+   font-family: cursive; 
+   font-size: 50px;
+   background-color: pink;
+   width: 450px;
+   height: 50px;
+   border-radius: 25px;
+   padding: 30px;
+   box-shadow: 7px 7px 5px hotpink;
+   border: medium;
+   border-style: dashed;
+   border-color: black;
+}
+.cass-info{
+    font-style: italic;
+}
+footer{
+    margin: 20px;
+}
+body{
+    background-color: lightgrey;
+}
+
+.what-about{
+    padding: 20px;
+    border: medium;
+    border-style: solid;
+    border-color: black;
+    box-shadow: 5px 5px 5px hotpink;
+}
